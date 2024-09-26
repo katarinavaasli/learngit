@@ -8,3 +8,4 @@
 - new_branch change 6
 - main change 3
 - main change 4
+- cool_branch change 1
